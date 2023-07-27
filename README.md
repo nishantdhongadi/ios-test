@@ -26,7 +26,7 @@ GIF created with Giphy.
 1. Youtube
    - Comprehensive Search Feature
    - Easy account access
-   - Allows user to begin a livestream/upload a video within the app. 
+   - Allows users to begin a livestream/upload a video within the app. 
 3. Instagram
    - Ability to send posts/reels to Direct Messages
    - Stories Feature
@@ -35,6 +35,12 @@ GIF created with Giphy.
    - Light/Dark Mode
    - Sending a snap to defined groups for ease
    - 1st party and user-created filters
+
+An app I'd like to build is an expense tracker designed for high-school or college students. This app would be similar to existing trackers on the market except it would have features that would be in line with the spending habits of students. Features that I would likely include in this app would be: 
+- Ability to link bank/credit card accounts directly to the app to give the user a dashboard of their total spending
+- Built-in credit score check/estimate
+- Credit limit notifications and the ability to add a custom spending limit
+- Tips and general information catered to students like recommended credit cards, savings accounts, etc. and to increase financial literacy in general.
 
 ## Notes
 
